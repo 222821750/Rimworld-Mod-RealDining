@@ -1,0 +1,6 @@
+D:\steam\steamapps\common\RimWorld\Mods\RealDining\Assemblies\RealDining.dll
+D:\steam\steamapps\common\RimWorld\Mods\RealDining\Assemblies\RealDining.pdb
+C:\Users\wyc\source\repos\RealDining\RealDining\obj\Debug\RealDining.csprojAssemblyReference.cache
+C:\Users\wyc\source\repos\RealDining\RealDining\obj\Debug\RealDining.csproj.CoreCompileInputs.cache
+C:\Users\wyc\source\repos\RealDining\RealDining\obj\Debug\RealDining.dll
+C:\Users\wyc\source\repos\RealDining\RealDining\obj\Debug\RealDining.pdb
